@@ -1,2 +1,3 @@
-# RohanSidhuExecOps.github.io
-Charlie Mike Website
+---
+permalink: /index.html
+---
